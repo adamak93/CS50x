@@ -1,6 +1,6 @@
 # CS50x 2018 Notes and Resources
 
-This repository contains notes pertaining to [Harvard's CS50x coure for 2018](https://online-learning.harvard.edu/course/cs50-introduction-computer-science), including notes for projects assigned throughout the duration of the course along with supplementary resources to better explain and clarify parts of the course material.
+This repository contains notes pertaining to [Harvard's CS50x course for 2018](https://online-learning.harvard.edu/course/cs50-introduction-computer-science), including notes for projects assigned throughout the duration of the course along with supplementary resources to better explain and clarify parts of the course material.
 
 Lecture and project notes are organized into folders for each week along with syntax cheatsheets, links,documentation, and other links that may prove useful to those following along with the course. However, **project solutions are not available in this repository.**
 
