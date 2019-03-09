@@ -1,5 +1,8 @@
 #Week 0 Lecture Notes
 
+Run time: 1:10:34
+
+
 Computational Thinking: Thinking like a computer to solve problems.
 
 Example: Teaching a robot to make a Peanut Butter + Jelly Sandwich. What steps are needed?
