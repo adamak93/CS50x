@@ -124,9 +124,10 @@ Building blocks in question?
 7. Events
 and more as we explore C, Python and much much more.
 
+Scratch is very graphical, relying on actual building blocks to build programs using the above components. 
 
-
-
-
+ Yellow: Functions
+ Blue: Boolean
+ Purple: Event
 
 # Week 0 Project 5050
