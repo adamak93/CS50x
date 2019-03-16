@@ -130,4 +130,62 @@ Scratch is very graphical, relying on actual building blocks to build programs u
  Blue: Boolean
  Purple: Event
 
-# Week 0 Project 5050
+ Green Flag: Run Program
+ Stop Sign: Stop Running
+
+Characters can be added as sprites to represent different animations, actions, etc.
+
+Each block fits together to map functions, loops, conditions, and variables to a program that can be run through the scratch editor. 
+
+Scratch also allows you to take inputs from users to fill for variables. Questions like "what's your name?" or "How old are you?" are good examples.
+
+To concatenate phrases to fulfill certain criteria like "Hello, <NAME>", you use the join block and drag the variable for <NAME> in the block. 
+
+To play sounds, you can use the sound block to play a certain sound when a function is invoked (Hover, click, etc.)
+
+If you want a sound to play multiple times, you need to use a loop to play the sound over and over again. You can even choose how many times the sound plays.
+
+Scratch, like many programming languages, can perform arithmetical operations, including being able to double or square certain numbers. Numbers can reach as high as infinity or around 10^250th.
+
+Forever blocks can listen in perpetuity for certain events to occur, a lot like a for loop.
+(if mouse hovers over the sprite then play a sound for the time its hovering over the sprite)
+
+If or Else blocks can listen for multiple events. (If a mouse is hovering over the sprite, play sound A, else play sound B.)
+
+Animations can be performed through different versions of the same sprite. Making a character move around a screen without scrolling the sprite left and right can occur with a different sprite with its leg moving ever so slightly to mimic a walking motion.
+
+Sprite art from video-games in the 8-16 bit era is a very good example of how sprite animations are made. The Mega Man games are a great example of this. 
+
+Point Towards will allow you to create interactivity through making sprites point toward certain objects such as your mouse pointer.
+
+Threads are used to simnultaneously chain together multiple scripts to achieve a more complex and/or interactive result.   
+
+Events are needed to augment certain blocks or components and receive certain messages or conditions from other blocks. For instance, a sprite needs the broadcast block to hear the events from other sprites.
+
+Custom Blocks can also be made using inputs, booleans, and labels to fulfill certain functions and execute certain events.
+
+Scratch and custom blocks are a lot like solving problems in other programming languages like C and JavaScript, often by using things called libraries, or code that other people wrote that's useful to get the job done. 
+ 
+DRY: Don't Repeat Yourself! Use a loop of some kind to keep yourself from repeating your own code.
+
+All Scratch Projects demonstrated in this lecture are available from the CS50 website. 
+
+
+# Week 0 Problem Set
+
+*What to Do*
+Download and install the latest version of Chrome, if you don’t have it already.
+Implement your very own Scratch project using Chrome, per this specification.
+Advice
+Here’s how to try out David’s examples from lecture:
+
+Download one or more of them or a ZIP of all of them, which you should then unzip.
+Visit scratch.mit.edu, click Start Creating, select File > Load from your computer, and select the .sb3 file that you’d like to try out.
+
+*Project 5050*
+If you’d like to learn a bit more about others who’ve come before you, take a look at Project 5050 by CS50’s own Hailey James ‘19 et al.
+
+https://youtu.be/0S7isdzIBU4?list=PLhQjrBD2T383RLDItqbDRs-4gWy8Wgec2
+
+
+https://docs.cs50.net/2019/x/psets/0/index.html
